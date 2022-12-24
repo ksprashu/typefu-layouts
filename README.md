@@ -10,13 +10,13 @@ This repo contains some of the alternative keyboard layouts that I have been lea
 
 ## Added Layouts
 
-Colemak-DH
-BEAKL 15
-BEAKL 15-27
-BEAKL 27
-BEAKL 27-A
-BEAKL 30
-BEAKL 30-HK
++ Colemak-DH
++ BEAKL 15
++ BEAKL 15-27
++ BEAKL 27
++ BEAKL 27-A
++ BEAKL 30
++ BEAKL 30-HK
 
 To use, just download the required layout file and import into TypeFu. You can also export layouts that you have created or modified.
 
