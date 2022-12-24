@@ -10,7 +10,8 @@ This repo contains some of the alternative keyboard layouts that I have been lea
 
 ## Added Layouts
 
-+ Colemak-DH
++ Colemak DH
++ Colemak DH (with angle mod)
 + BEAKL 15
 + BEAKL 15-27
 + BEAKL 27
