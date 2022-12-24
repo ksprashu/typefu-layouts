@@ -1,0 +1,298 @@
+{
+  "id": "custom-62bb17d9-d913-4bb9-84f2-94630dae3fe8",
+  "name": "Colemak Mod-DH (angle mod)",
+  "description": "Colemak Mod-DH with angle mod",
+  "version": 1,
+  "keys": {
+    "Digit1": {
+      "default": {
+        "base": "1",
+        "shift": "!"
+      }
+    },
+    "Digit2": {
+      "default": {
+        "base": "2",
+        "shift": "@"
+      }
+    },
+    "Digit3": {
+      "default": {
+        "base": "3",
+        "shift": "#"
+      }
+    },
+    "Digit4": {
+      "default": {
+        "base": "4",
+        "shift": "$"
+      }
+    },
+    "Digit5": {
+      "default": {
+        "base": "5",
+        "shift": "%"
+      }
+    },
+    "Digit6": {
+      "default": {
+        "base": "6",
+        "shift": "^"
+      }
+    },
+    "Digit7": {
+      "default": {
+        "base": "7",
+        "shift": "&"
+      }
+    },
+    "Digit8": {
+      "default": {
+        "base": "8",
+        "shift": "*"
+      }
+    },
+    "Digit9": {
+      "default": {
+        "base": "9",
+        "shift": "("
+      }
+    },
+    "Digit0": {
+      "default": {
+        "base": "0",
+        "shift": ")"
+      }
+    },
+    "KeyA": {
+      "default": {
+        "base": "a",
+        "shift": "A"
+      }
+    },
+    "KeyB": {
+      "default": {
+        "base": "z",
+        "shift": "Z"
+      }
+    },
+    "KeyC": {
+      "default": {
+        "base": "d",
+        "shift": "D"
+      }
+    },
+    "KeyD": {
+      "default": {
+        "base": "s",
+        "shift": "S"
+      }
+    },
+    "KeyE": {
+      "default": {
+        "base": "f",
+        "shift": "F"
+      }
+    },
+    "KeyF": {
+      "default": {
+        "base": "t",
+        "shift": "T"
+      }
+    },
+    "KeyG": {
+      "default": {
+        "base": "g",
+        "shift": "G"
+      }
+    },
+    "KeyH": {
+      "default": {
+        "base": "m",
+        "shift": "M"
+      }
+    },
+    "KeyI": {
+      "default": {
+        "base": "u",
+        "shift": "U"
+      }
+    },
+    "KeyJ": {
+      "default": {
+        "base": "n",
+        "shift": "N"
+      }
+    },
+    "KeyK": {
+      "default": {
+        "base": "e",
+        "shift": "E"
+      }
+    },
+    "KeyL": {
+      "default": {
+        "base": "i",
+        "shift": "I"
+      }
+    },
+    "KeyM": {
+      "default": {
+        "base": "h",
+        "shift": "H"
+      }
+    },
+    "KeyN": {
+      "default": {
+        "base": "k",
+        "shift": "K"
+      }
+    },
+    "KeyO": {
+      "default": {
+        "base": "y",
+        "shift": "Y"
+      }
+    },
+    "KeyP": {
+      "default": {
+        "base": ";",
+        "shift": ":"
+      }
+    },
+    "KeyQ": {
+      "default": {
+        "base": "q",
+        "shift": "Q"
+      }
+    },
+    "KeyR": {
+      "default": {
+        "base": "p",
+        "shift": "P"
+      }
+    },
+    "KeyS": {
+      "default": {
+        "base": "r",
+        "shift": "R"
+      }
+    },
+    "KeyT": {
+      "default": {
+        "base": "b",
+        "shift": "B"
+      }
+    },
+    "KeyU": {
+      "default": {
+        "base": "l",
+        "shift": "L"
+      }
+    },
+    "KeyV": {
+      "default": {
+        "base": "v",
+        "shift": "V"
+      }
+    },
+    "KeyW": {
+      "default": {
+        "base": "w",
+        "shift": "W"
+      }
+    },
+    "KeyX": {
+      "default": {
+        "base": "c",
+        "shift": "C"
+      }
+    },
+    "KeyY": {
+      "default": {
+        "base": "j",
+        "shift": "J"
+      }
+    },
+    "KeyZ": {
+      "default": {
+        "base": "x",
+        "shift": "X"
+      }
+    },
+    "Minus": {
+      "default": {
+        "base": "-",
+        "shift": "_"
+      }
+    },
+    "Equal": {
+      "default": {
+        "base": "=",
+        "shift": "+"
+      }
+    },
+    "BracketLeft": {
+      "default": {
+        "base": "[",
+        "shift": "{"
+      }
+    },
+    "BracketRight": {
+      "default": {
+        "base": "]",
+        "shift": "}"
+      }
+    },
+    "Backslash": {
+      "default": {
+        "base": "\\",
+        "shift": "|"
+      }
+    },
+    "IntlBackslash": {
+      "default": {}
+    },
+    "Semicolon": {
+      "default": {
+        "base": "o",
+        "shift": "O"
+      }
+    },
+    "Backquote": {
+      "default": {
+        "base": "`",
+        "shift": "~"
+      }
+    },
+    "Quote": {
+      "default": {
+        "base": "'",
+        "shift": "\""
+      }
+    },
+    "Comma": {
+      "default": {
+        "base": ",",
+        "shift": "<"
+      }
+    },
+    "Period": {
+      "default": {
+        "base": ".",
+        "shift": ">"
+      }
+    },
+    "Slash": {
+      "default": {
+        "base": "/",
+        "shift": "?"
+      }
+    },
+    "Space": {
+      "default": {
+        "base": " "
+      }
+    }
+  }
+}
