@@ -1,0 +1,267 @@
+{
+  "id": "custom-8066897c-8759-4408-aba5-ed091269a7ea",
+  "name": "BEAKL 27-A",
+  "version": 1,
+  "keys": {
+    "Space": {
+      "default": {
+        "base": " "
+      }
+    },
+    "KeyQ": {
+      "default": {
+        "base": "q",
+        "shift": "Q"
+      }
+    },
+    "KeyW": {
+      "default": {
+        "base": "y",
+        "shift": "Y",
+        "alt": "<"
+      }
+    },
+    "KeyE": {
+      "default": {
+        "base": "o",
+        "shift": "O",
+        "alt": "="
+      }
+    },
+    "KeyR": {
+      "default": {
+        "base": "u",
+        "shift": "U",
+        "alt": ">"
+      }
+    },
+    "KeyT": {
+      "default": {
+        "base": "x",
+        "shift": "X"
+      }
+    },
+    "KeyA": {
+      "default": {
+        "base": "h",
+        "shift": "H",
+        "alt": "\\"
+      }
+    },
+    "KeyS": {
+      "default": {
+        "base": "i",
+        "shift": "I",
+        "alt": "("
+      }
+    },
+    "KeyD": {
+      "default": {
+        "base": "e",
+        "shift": "E",
+        "alt": "-"
+      }
+    },
+    "KeyF": {
+      "default": {
+        "base": "a",
+        "shift": "A",
+        "alt": ")"
+      }
+    },
+    "KeyG": {
+      "default": {
+        "base": ".",
+        "shift": "`",
+        "alt": "+"
+      }
+    },
+    "KeyZ": {
+      "default": {
+        "base": "j",
+        "shift": "J"
+      }
+    },
+    "KeyX": {
+      "default": {
+        "base": "\"",
+        "shift": "!",
+        "alt": "*"
+      }
+    },
+    "KeyC": {
+      "default": {
+        "base": ",",
+        "shift": "?",
+        "alt": ":"
+      }
+    },
+    "KeyV": {
+      "default": {
+        "base": "k",
+        "shift": "K",
+        "alt": "/"
+      }
+    },
+    "KeyB": {
+      "default": {
+        "base": "'"
+      }
+    },
+    "KeyY": {
+      "default": {
+        "base": "g",
+        "shift": "G"
+      }
+    },
+    "KeyU": {
+      "default": {
+        "base": "c",
+        "shift": "C",
+        "alt": "["
+      }
+    },
+    "KeyI": {
+      "default": {
+        "base": "m",
+        "shift": "M",
+        "alt": "_"
+      }
+    },
+    "KeyO": {
+      "default": {
+        "base": "n",
+        "shift": "N",
+        "alt": "]"
+      }
+    },
+    "KeyP": {
+      "default": {
+        "base": "v",
+        "shift": "V"
+      }
+    },
+    "KeyH": {
+      "default": {
+        "base": "d",
+        "shift": "D",
+        "alt": "%"
+      }
+    },
+    "KeyJ": {
+      "default": {
+        "base": "s",
+        "shift": "S",
+        "alt": "{"
+      }
+    },
+    "KeyK": {
+      "default": {
+        "base": "t",
+        "shift": "T",
+        "alt": ";"
+      }
+    },
+    "KeyL": {
+      "default": {
+        "base": "r",
+        "shift": "R",
+        "alt": "}"
+      }
+    },
+    "Period": {
+      "default": {
+        "base": "b",
+        "shift": "B",
+        "alt": "&"
+      }
+    },
+    "Semicolon": {
+      "default": {
+        "base": "p",
+        "shift": "P"
+      }
+    },
+    "KeyN": {
+      "default": {
+        "base": "w",
+        "shift": "W"
+      }
+    },
+    "KeyM": {
+      "default": {
+        "base": "f",
+        "shift": "F",
+        "alt": "|"
+      }
+    },
+    "Comma": {
+      "default": {
+        "base": "l",
+        "shift": "L",
+        "alt": "~"
+      }
+    },
+    "Slash": {
+      "default": {
+        "base": "z",
+        "shift": "Z"
+      }
+    },
+    "Digit1": {
+      "default": {
+        "base": "3"
+      }
+    },
+    "Digit2": {
+      "default": {
+        "base": "2",
+        "shift": "@"
+      }
+    },
+    "Digit3": {
+      "default": {
+        "base": "1",
+        "shift": "$"
+      }
+    },
+    "Digit4": {
+      "default": {
+        "base": "0",
+        "shift": "#"
+      }
+    },
+    "Digit5": {
+      "default": {
+        "base": "4"
+      }
+    },
+    "Digit6": {
+      "default": {
+        "base": "7"
+      }
+    },
+    "Digit7": {
+      "default": {
+        "base": "6"
+      }
+    },
+    "Digit8": {
+      "default": {
+        "base": "5",
+        "alt": "^"
+      }
+    },
+    "Digit9": {
+      "default": {
+        "base": "9"
+      }
+    },
+    "Digit0": {
+      "default": {
+        "base": "8"
+      }
+    }
+  },
+  "description": "BEAKL 27 (with suggested customizations)"
+}
